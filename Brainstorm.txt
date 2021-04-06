@@ -1,0 +1,23 @@
+This is a Brainstorm Page.
+Thoughts in here are not final.
+
+Tom's notes on sources=======================================================================================================
+
+National Science & Technology Council's advisory report on AI to then POTUS Obama in October 2016
+	very knowledgeable, optimistic, but kicks the can of responsibility down the line, citing singularity not until 2030.
+	Short term nature of the office fails to align long term risks with office holders.
+	Good model for explaining machine learning to layman, as well as what AGI is.
+	Recommendations should be referenced in proposal, very good framework, but needs teeth.
+
+AI governance and ethics global perspectives 2019
+	Austria's policy for becoming a data colony concerning for the fate of all similarly smaller states
+	UK's uncertainty of post Brexit state leads to a lot of talk w/o action
+	EU has made most progress, with committee established for monitoring industry, and red lines in wording
+	Unclear how enforcable such demands are
+	India, despite size and economic growth recently, remains framed as a data colony without privacy protections
+	Look at Trump Administration Executive Order on Maintaining American Leadership in AI February 2019
+	None have force of binding law yet.
+
+
+	
+
