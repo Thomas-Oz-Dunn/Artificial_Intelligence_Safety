@@ -15,3 +15,10 @@ Just as with the automobile industry before the NHTSA, we currently live in the 
 Citing experts in the domain of computer science, from Elon Musk to Nick Bostrom, the existential risk of AI is too large to leave its development unregulated.
  
 The documents attached in this repository hope to build a federal agency, comprised of experts and consultants from the public and private sphere alike, from fields related to the Safety of Artificial Intelligence Systems, whose purpose is to monitor, audit, and, if malicious systems found, intervene in, public companies, private companies, universities, and government agencies whose work contributes to the development of Artificial Intelligence.
+
+## Procedure
+To contribute to the project, first create a personal branch for your development, so as not to interfere with the work of others, by clicking the dropdown menu labelled main in the top left corner.
+
+Instructions and help in navigation can be found here: https://docs.github.com/en/github/administering-a-repository/managing-branches-in-your-repository
+
+When finished with contributions, to merge it with the main repo, make a pull request to submit the changes for review.
