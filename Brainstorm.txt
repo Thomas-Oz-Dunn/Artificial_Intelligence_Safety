@@ -1,7 +1,42 @@
 This is a Brainstorm Page.
 Thoughts in here are not final.
 
-Tom's notes on sources=======================================================================================================
+Notes on gameplan===================================================================================================
+Agency MUST have teeth, not just advice or ideals. 
+For ethics to be actualized, there must be legal and professional consequences for those who violate code of conduct.
+Like in the field of medicine or cars, medicine or cars or AI arn't EVIL to be destroyed, regulatory agency is just needed to ensure privacy, safety, and security. 
+Reach out to authors of the respective sources for help and support.
+Bring in a multidisciplinary team to take into account software, legal, political, economic, and philosophical ramifications.
+Contact senators and representatives to get bill into Congress in collaboration with the White House.
+There were cars before NHSTA mandated seatbelts, even when Detroit new seat belts saved more lives. Planes before the FAA. Sawdust bread before FDA.
+
+Risk factor==========================================================================================
+This idea can be seen as a threat to the most powerful organizations in human history.
+With the largest accumulations of wealth, knowledge about the world, strategic leadership, and computatial power ever consolidated. 
+From Silicon Valley to Wall Street to the Pentagon, many will try to oppose, but remember you have Allies.
+Their influence over the economy, media, and policy is formidable. 
+Be careful, strategic, and safe. 
+
+Possible celebrity endorsements who have been outspoken before=======================================================
+Andrew Yang
+Elon Musk
+Bill Gates
+Nick Bostrom
+Stuart Russell
+Steve Wozniak
+Kai-Fu Lee
+Max Tegmark
+
+Possible organizations to connect with===============================================================================
+Deepmind
+OpenAI
+Stanford
+MIT
+AAAI
+Future of Life Institute
+AI4good.org
+
+Notes on sources=======================================================================================================
 
 National Science & Technology Council's advisory report on AI to then POTUS Obama in October 2016
 	very knowledgeable, optimistic, but kicks the can of responsibility down the line, citing singularity not until 2030.
@@ -18,6 +53,13 @@ AI governance and ethics global perspectives 2019
 	Look at Trump Administration Executive Order on Maintaining American Leadership in AI February 2019
 	None have force of binding law yet.
 
+AI Ethics - Too principled to Fail? Brent Mittelstadt brent.mittelstadt@aii.ox.ac.uk 2019
+	Principles and values do not make actions necessarily ethical
+	Field needs robust legal and professional accountability mechanisms
+	Why to electricians and plumbers need licenses but not AI programmers?
+	Unlike medicine, no common experiences, goals, values, or enforcement in the AI community
+ 
+	
 
 	
 
