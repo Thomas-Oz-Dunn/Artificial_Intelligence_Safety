@@ -58,6 +58,12 @@ AI Ethics - Too principled to Fail? Brent Mittelstadt brent.mittelstadt@aii.ox.a
 	Field needs robust legal and professional accountability mechanisms
 	Why to electricians and plumbers need licenses but not AI programmers?
 	Unlike medicine, no common experiences, goals, values, or enforcement in the AI community
+
+Trump Executive Order 2019
+	Tells federal agencies to bend over so that Silicon Valley can have all their data
+	Possible leverage points if agency find organizations violating privacy, safety, security or American Values
+	Uses the term American Values so many times I forgot its meaning
+	Wait, what are American Value, explicitly?
  
 	
 
