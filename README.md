@@ -21,4 +21,8 @@ To contribute to the project, first create a personal branch for your developmen
 
 Instructions and help in navigation can be found here: https://docs.github.com/en/github/administering-a-repository/managing-branches-in-your-repository
 
-When finished with contributions, to merge it with the main repo, make a pull request to submit the changes for review.
+When finished with contributions, to merge it with the main branch, make a pull request to submit the changes for review.
+
+Questions and comments are encouraged in the discussions section
+
+If you know anyone interested in helping with a project like this, or connections to policy makers that could help make it a reality, make sure to send this repo's contents their way.
