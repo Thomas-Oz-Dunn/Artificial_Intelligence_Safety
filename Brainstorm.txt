@@ -72,6 +72,13 @@ Trump Executive Order 2019
 	Uses the term American Values so many times I forgot its meaning
 	Wait, what are American Value, explicitly?
  
+Ethics of Artificial Intelligence - Nick Bostrom 2011
+	Way ahead of time, given that the iPhone didn't even exist yet
+	Does the accountabilty of a self driving car go to car or human?
+	Does the responsibility of bank loan bot's decision to reject an applicant go to the maker, bank, or algo?
+	Protects machines more than humans
+	Distinguishes between Sapience and Sentience for applying moral status
+	Explores mental uploads, black mirror?
 	
 
 	
