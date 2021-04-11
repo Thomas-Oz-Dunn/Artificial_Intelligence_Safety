@@ -79,7 +79,13 @@ Ethics of Artificial Intelligence - Nick Bostrom 2011
 	Protects machines more than humans
 	Distinguishes between Sapience and Sentience for applying moral status
 	Explores mental uploads, black mirror?
-	
+
+Concrete Problems in AI Safety - 2016
+	Outlines very executable procedures for minimizing risk
+	Many many many sources through which one can dive for more information, 170
+	Debates responsibility around objective function, what it intends vs implementation, whether error could have been forseen
+	Wireheading and edge case seem the hardest problems to solve
+	Noisy environments create unpredictable results 	
 
 	
 
