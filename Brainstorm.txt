@@ -10,6 +10,8 @@ Bring in a multidisciplinary team to take into account software, legal, politica
 This is where technology, economics, philosophy, law, and business intersect
 Contact senators and representatives to get bill into Congress in collaboration with the White House.
 There were cars before NHSTA mandated seatbelts, even when Detroit new seat belts saved more lives. Planes before the FAA. Sawdust bread before FDA.
+Address the specifics of retraining workers, programs should be concrete, not abstract. 
+Possibly teach ordinary Americans through community colleges & high school how to leverage AI for starting businesses or augmenting their own.
 
 Risk factor==========================================================================================
 This idea can be seen as a threat to the most powerful organizations in human history.
@@ -87,6 +89,12 @@ Concrete Problems in AI Safety - 2016
 	Debates responsibility around objective function, what it intends vs implementation, whether error could have been forseen
 	Wireheading and edge case seem the hardest problems to solve
 	Noisy environments create unpredictable results 	
+	When proposal finished, look to these authors for advice & possible agency directors/consultants
+
+HHS Cybersecurity program, healthcare disinformation 2020
+	Deepfakes and bots
+	infodemic alongside COVID 
+
 
 	
 
