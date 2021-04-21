@@ -1,0 +1,7 @@
+Thoughts about development prior to these dates are located on the main Brainstorm page.
+
+4/21/2021
+I NEED HELP WITH CITATIONS. Should we move from word to Latex? Moving references around and adding more will change the numbering in the paper, which will be a pain to reorganize.
+Also, which citation format should we use? How does one decide? How many sources is too many? How thorough should we comb through every source we find cited in each source?
+Need a board of people to bounce ideas off of, this can't be decided alone.
+
