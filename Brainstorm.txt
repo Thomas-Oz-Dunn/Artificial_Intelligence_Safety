@@ -35,6 +35,7 @@ Andrew Yang
 Elon Musk
 Bill Gates
 Nick Bostrom
+Yuval Noah Harari
 Stuart Russell
 Steve Wozniak
 Kai-Fu Lee
@@ -51,6 +52,7 @@ MIT
 AAAI
 Future of Life Institute
 AI4good.org
+Sapienship
 
 Notes on sources=======================================================================================================
 
@@ -101,6 +103,12 @@ HHS Cybersecurity program, healthcare disinformation 2020
 	Deepfakes and bots
 	infodemic alongside COVID 
 
+Book, not paper, sources
+Superintelligence by Nick Bostrom
+AI Superpowers by Kai-Fu Lee
+How to creat a mind by Ray Kurzweil
+The Age of Surveillance Capitalism by Shoshana Zuboff
+The new breed by Kate Darling
 
 	
 
